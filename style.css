@@ -82,7 +82,7 @@ header nav ul li a {
 }
 
 .hero {
-    background-image: linear-gradient(rgba(111, 111, 111, 0.342), rgba(111, 111, 111, 0.342)),url(7.jpg);
+    background-image:url(7.jpg);
     background-size:cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -230,7 +230,7 @@ footer .social-media a {
     bottom: 20px;
     right: 20px;
     z-index: 1000;
-    background-color: #0d484c;
+    background-color: #04606d;
     color: white;
     border: none;
     border-radius: 50%;
